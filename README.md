@@ -55,6 +55,7 @@ Check out the [demo](http://codepen.io/bartezic/pen/ByqeNq).
 ## Changelog
 
 <ul>
+  <li>Released gem v.0.0.2</li>
   <li>Released gem v.0.0.1</li>
 </ul>
 
