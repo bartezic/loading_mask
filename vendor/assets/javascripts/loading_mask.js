@@ -7,7 +7,7 @@
       if($(this).is('body') || $(this).is('html')){ cls += ' fixed' };
       $('<div>', {class: cls}).appendTo($(this));
     } else if (action === 'hide') {
-      $('.'+cls).remove();
+      $(this).find('.'+cls).remove();
     }
   };
 }(jQuery));
